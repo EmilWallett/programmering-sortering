@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\Ny mapp.exe
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\Ny mapp.deps.json
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\Ny mapp.runtimeconfig.json
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\Ny mapp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\Ny mapp.dll
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\ref\Ny mapp.dll
+C:\Users\Admin\Desktop\Ny mapp\bin\Debug\net5.0\Ny mapp.pdb
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.dll
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\ref\Ny mapp.dll
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.pdb
+C:\Users\Admin\Desktop\Ny mapp\obj\Debug\net5.0\Ny mapp.genruntimeconfig.cache
