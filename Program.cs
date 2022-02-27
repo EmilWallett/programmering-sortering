@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Threading;
+using System.Linq;
+using System.Text;
 
 namespace Ny_mapp
 {
@@ -20,6 +22,8 @@ namespace Ny_mapp
 
                 for(int i= 0; i < tal; i++)
                     numbers.Add(rnd.Next(1, tal));
+
+    
                 int temp;
 
                 for (int j = 0; j <= numbers.Count - 2; j++) {
@@ -40,8 +44,6 @@ namespace Ny_mapp
 
             Console.WriteLine("");
             Console.WriteLine("Det tog " + stopWatch.ElapsedMilliseconds + " Millisekunder");
-
-            
 
         }
     }

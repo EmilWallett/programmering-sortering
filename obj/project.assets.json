@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\emilw\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\programmering-sortering\\Ny mapp.csproj",
+      "projectUniqueName": "C:\\Users\\emilw\\OneDrive\\Desktop\\Tabell\\programmering-sortering\\Ny mapp.csproj",
       "projectName": "Ny mapp",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\programmering-sortering\\Ny mapp.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\programmering-sortering\\obj\\",
+      "projectPath": "C:\\Users\\emilw\\OneDrive\\Desktop\\Tabell\\programmering-sortering\\Ny mapp.csproj",
+      "packagesPath": "C:\\Users\\emilw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emilw\\OneDrive\\Desktop\\Tabell\\programmering-sortering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\emilw\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
