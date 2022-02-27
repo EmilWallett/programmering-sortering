@@ -13,7 +13,7 @@ namespace Ny_mapp
         {
 
             Stopwatch stopWatch = new Stopwatch();
-                stopWatch.Start();
+                
                 
                 List<int> numbers = new List<int>(); 
 
@@ -24,6 +24,8 @@ namespace Ny_mapp
                     numbers.Add(rnd.Next(1, tal));
 
     
+                stopWatch.Start();
+
                 int temp;
 
                 for (int j = 0; j <= numbers.Count - 2; j++) {
@@ -36,11 +38,13 @@ namespace Ny_mapp
                     }
                 }
 
+                stopWatch.Stop();
+
                 foreach (int a in numbers){
                 Console.Write(a + " ");
                 }
 
-            stopWatch.Stop();
+            
 
             Console.WriteLine("");
             Console.WriteLine("Det tog " + stopWatch.ElapsedMilliseconds + " Millisekunder");
